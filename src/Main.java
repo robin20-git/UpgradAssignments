@@ -9,6 +9,8 @@
 
         System.out.println("Sum of " + num1 + " and " + num2 + " is: " + sum);
 
+        //output is :  Sum of 4 and 5 is: 9
+
         //question2 :- //write a java program to add multiply numbers
 
         // Given numbers
@@ -26,6 +28,8 @@
         System.out.println("Sum of " + num3 + ", " + num4 + ", and " + num5 + " is: " + sum1);
         System.out.println("Product of " + num3 + ", " + num4 + ", and " + num5 + " is: " + product);
 
+        // output is : Sum of 6, 4, and 7 is: 17
+        //             Product of 6, 4, and 7 is: 168
 
         //question3 :- //write a java program to divide numbers
 
@@ -44,6 +48,8 @@
             // Handle division by zero
             System.out.println("Cannot divide by zero. Please provide a non-zero denominator.");
 
+            // output is : Result of 556.0 divided by 34.0 is: 16.352941176470587
+
        //question4 :-   //write a java if else simple program
 
             // Given numbers
@@ -60,6 +66,7 @@
             }
         }
 
+        // output is : 8 is greater than 5
 
         //question5 :-//write a java data type program
 
@@ -84,3 +91,8 @@
         System.out.println("String Value: " + stringValue);
     }
 }
+    // output is : Integer Value: 42
+    //             Double Value: 3.14
+    //             Character Value: A
+    //             Boolean Value: true
+    //             String Value: Hello, Java!
